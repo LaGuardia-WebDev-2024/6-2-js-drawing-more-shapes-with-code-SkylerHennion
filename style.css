@@ -7,5 +7,6 @@ body {
 
 #myCanvas {
   border-radius: 30px;
-  border: 15px double rgb(201, 219, 233);
+  border: 15px outset black;
+  background-image: linear-gradient(blue, lightblue);
 }
